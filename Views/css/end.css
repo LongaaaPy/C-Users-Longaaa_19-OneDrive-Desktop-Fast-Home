@@ -1,0 +1,74 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image:url(img/city.jpg);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 650px;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #5e5e5e;
+    border-radius: 10%;
+    width: 650px;height: 350px;
+    margin: 75px  335px;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.countdown {
+    font-size: 24px;
+    margin: 20px 0;
+}
+
+.countdown p {
+    margin: 0;
+}
+
+.message {
+    font-size: 24px;
+    margin-top: 20px;
+    display: none;
+    color: #66e26c;
+}
+
+.footer {
+    margin-top: 40px;
+    color: #013504;
+}
+
+#loader {
+    width: 25%;
+    height: 20px;
+    background-color: #312f2f;
+    position: relative;
+    border-radius: 5%;
+    margin: 20px  520px;
+}
+
+#progress {
+    width: 0;
+    height: 100%;
+    background-color: #5ecc64;
+    position: absolute;
+    transition: width 0s linear; /* Duración de 10 segundos */
+    border-radius: 5%;
+    
+    
+}
+
+span{
+    color: lightgreen;
+    font-size: 75px;
+}

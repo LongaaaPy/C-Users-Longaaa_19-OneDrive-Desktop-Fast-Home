@@ -1,0 +1,38 @@
+
+body {
+    background-image: url(../img/wsp2.jpg);
+    
+  }
+  
+
+  button{
+    margin: 1px 10px;
+    border-radius: 10px; 
+    padding: 10px 20px; 
+    background-color:lightgreen; 
+    border: none; 
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-bottom: 2px solid black
+    }
+    button:hover{
+      background-color: rgb(119, 228, 92);
+      border-radius: 2px solid lightgreen;
+      color: lightgreen
+    }
+    
+    a{
+      text-decoration:none;
+      color: black;
+    }
+    
+    h1{
+      background-color: rgb(5, 58, 40);
+      border-radius: px 20px;
+      text-align: center;
+    }
+    
+    img{
+      margin: 10px 450px;
+    }

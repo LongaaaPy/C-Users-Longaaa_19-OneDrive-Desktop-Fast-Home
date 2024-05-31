@@ -1,0 +1,58 @@
+
+
+
+  
+  
+    body {
+      background-image: url(../img/fast\ \(1\).png);
+      
+    }
+
+
+
+button{
+  display: block;
+  border-radius: 5px; 
+  padding: 10px 20px; 
+  background-color:lightgreen; 
+  border: none; 
+  cursor: pointer;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-bottom: 2px solid black
+  }
+
+
+ h1{
+  background-color:lightgreen;
+  border-radius: px 20px;
+  text-align: center;
+}
+
+a{
+  text-decoration:none;
+  color: black;
+}
+a:hover{
+  background-color: transparent;
+  border: 2px solid rgb(119, 228, 92);
+  color:black
+  
+}
+
+button:hover{
+  background-color: rgb(119, 228, 92);
+  border-radius: 2px solid lightgreen;
+  color: lightgreen
+}
+
+form{
+  border-radius: 15px; 
+  padding: 10px 50px; 
+  background-color:rgb(64, 172, 64); 
+  width: 300px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  border-bottom: 2px solid black
+}
